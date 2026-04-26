@@ -38,9 +38,8 @@ This project focuses on **low latency** and **clean architecture**. It mimics th
 
 ## 📸 Project Showcase
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x350?text=App+Landing+Page" alt="Main Interface" width="800" />
-</div>
+<img width="1787" height="859" alt="Screenshot 2026-04-26 203937" src="https://github.com/user-attachments/assets/ca099d45-b3b6-4659-9f64-2b11887a5432" />
+
 
 ---
 
@@ -70,6 +69,6 @@ Sri Kumar Pal
 
 
 
-<img width="1787" height="859" alt="Screenshot 2026-04-26 203937" src="https://github.com/user-attachments/assets/acea7651-4cd2-4698-b5ba-1ab14910fa56" />
+
 
 
